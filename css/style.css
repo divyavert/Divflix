@@ -314,7 +314,7 @@ img {
 /* media-query */
 @media(max-width: 960px) {
     .showcase {
-        height: 100vh;
+        height: 70vh;
     }
 
     .hide-sm {
